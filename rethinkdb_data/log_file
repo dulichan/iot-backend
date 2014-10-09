@@ -1,0 +1,29 @@
+2014-10-04T12:21:38.554865000 0.003017s info: Initializing directory /Users/chan/Development/Workspaces/Node-Workspace/iot-backend/rethinkdb_data
+2014-10-04T12:21:38.554999000 0.003152s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/chan/Development/Workspaces/Node-Workspace/iot-backend/rethinkdb_data' did not already exist or is empty.)
+2014-10-04T12:21:38.555044000 0.003197s info: Running rethinkdb 1.15.0-1 (CLANG 6.0 (clang-600.0.51))...
+2014-10-04T12:21:38.559146000 0.007298s info: Running on Darwin 13.4.0 x86_64
+2014-10-04T12:21:38.559178000 0.007331s info: Using cache size of 2324 MB
+2014-10-04T12:21:38.559324000 0.007477s info: Loading data from directory /Users/chan/Development/Workspaces/Node-Workspace/iot-backend/rethinkdb_data
+2014-10-04T12:21:38.666734000 0.114887s info: Listening for intracluster connections on port 29015
+2014-10-04T12:21:38.668541000 0.116694s info: Listening for client driver connections on port 28015
+2014-10-04T12:21:38.668631000 0.116784s info: Listening for administrative HTTP connections on port 8080
+2014-10-04T12:21:38.668646000 0.116799s info: Listening on addresses: 127.0.0.1, ::1
+2014-10-04T12:21:38.668660000 0.116813s info: To fully expose RethinkDB on the network, bind to all addresses
+2014-10-04T12:21:38.668672000 0.116825s info: by running rethinkdb with the `--bind all` command line option.
+2014-10-04T12:21:38.668686000 0.116839s info: Server ready
+2014-10-05T12:11:42.965327000 30229.910653s info: Server got SIGINT from pid 4763, uid 501; shutting down...
+2014-10-05T12:11:42.965695000 30229.911020s info: Shutting down client connections...
+2014-10-05T12:11:42.966262000 30229.911588s info: All client connections closed.
+2014-10-05T12:11:42.966270000 30229.911596s info: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2014-10-05T12:11:42.973277000 30229.918603s info: Storage engine shut down.
+2014-10-09T14:47:06.837823000 0.006087s info: Running rethinkdb 1.15.0-1 (CLANG 6.0 (clang-600.0.51))...
+2014-10-09T14:47:06.840807000 0.009071s info: Running on Darwin 13.4.0 x86_64
+2014-10-09T14:47:06.840829000 0.009092s info: Using cache size of 836 MB
+2014-10-09T14:47:06.840845000 0.009109s info: Loading data from directory /Users/chan/Development/Workspaces/Node-Workspace/iot-backend/rethinkdb_data
+2014-10-09T14:47:06.847960000 0.016224s info: Listening for intracluster connections on port 29015
+2014-10-09T14:47:06.848792000 0.017056s info: Listening for client driver connections on port 28015
+2014-10-09T14:47:06.848891000 0.017155s info: Listening for administrative HTTP connections on port 8080
+2014-10-09T14:47:06.848907000 0.017171s info: Listening on addresses: 127.0.0.1, ::1
+2014-10-09T14:47:06.848908000 0.017172s info: To fully expose RethinkDB on the network, bind to all addresses
+2014-10-09T14:47:06.848920000 0.017183s info: by running rethinkdb with the `--bind all` command line option.
+2014-10-09T14:47:06.848931000 0.017195s info: Server ready
